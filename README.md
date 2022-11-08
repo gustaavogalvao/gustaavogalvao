@@ -2,9 +2,6 @@
 Hello world!</br>I'm Gustavo 🐉
 </h1>
 
-<p align='center'>
- I'm passionate about XR, Arduino and game development.
-</p>
 
 <div align='center'>
 📫 How to reach me:
